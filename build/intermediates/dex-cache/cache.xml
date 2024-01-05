@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_faa508f8b84df9c73f19b5ce281eacd595be1bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_a7054203afee63c1e6ebed63c85bba78479f10be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_7eb1c3dd49cb90a7bf4adc517d68e82c72f084f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b4fc2a73e62c6b6eac76d19570dc019064c84d6">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_189ed21654df7f62e685f4f66563ef80b78605ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_8f4724697345a9713a40e891ce7cc643c21e62fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_2e92fe16761231c9fa4b8ac159da6dd992dbe52e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42ad85364737f69a3e4e4410af18b5577fcadb08">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8cd4aea2510c73f0677605bc750c79ad8a2249f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_f12836192b855b36de2e619e3b194c2c1d100b9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_1a93f67cb33bc544b634d26a8d805f8832253cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_75ff2599b44750461c9470c24fb2920bd2a6934f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_3407a3174e45748d438074264ca93a276fbbdf6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_c46d8042db273b0c38a7de93fbd793e554e42518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_f3e9c83a8f7a72b3b1b138cb0633b8ca5ae03bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\twinkle dhanak\AndroidStudioProjects\Mobi-Print\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_39f85b2dd639b175f64d836d1a30dc574c9c8885\classes.dex" />
+    </item>
+
+</items>
